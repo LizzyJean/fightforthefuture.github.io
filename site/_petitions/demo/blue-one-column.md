@@ -2,17 +2,17 @@
 layout: "action-network-petitions"
 design: "blue-one-column"
 headline: President Knowles is withholding free pizza. Put a stop to it now.
-tags: 
+tags:
   - "anti-corporate"
   - developer
-petition_title: Test petition 3
+action_network_title: Test petition 3
 petition_copy: "Fridays should be free pizza day. Push legislation today to bring pizza into the lives of all Americans!"
 opt_in: false
 allow_comments: false
-additional_fields: 
+additional_fields:
   - name
   - street_address
-required_fields: 
+required_fields:
   - name
 target_country: US
 petition_slug: "free-pizza-day"
